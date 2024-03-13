@@ -1,0 +1,17 @@
+body {
+    background-image: linear-gradient(to top,burlywood 0%, white 100%);
+}
+
+nav {
+     background: linear-gradient(to right, #0080b3, #4e779e, #9fecff);
+}
+
+table {
+    border: 1px solid black;
+}
+
+td,
+th {
+    border: 1px solid black;
+    padding: 1em;
+}
